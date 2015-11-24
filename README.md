@@ -16,3 +16,6 @@ I can't work through all the code in the video. So after watching the video, you
 
 ### For more information:
 https://github.com/mbostock/d3/wiki/Tutorials has a lot of tutorials about d3.js. If you are interested, check it out!
+
+### Completed Code:
+https://github.com/ztianai/d3-demo-completed Go to this link to see the completed code, including things I covered in the video and code I didn't do in the video
