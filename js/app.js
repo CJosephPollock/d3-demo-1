@@ -14,7 +14,7 @@ d3.select('#chart')
     .attr('fill', 'red')    
 
 
-//Change the radius of each circle
+//Change the radius of each circle, so r increments by 5 at a time
 
 //Create another data
 //var data = [1,2,3]
