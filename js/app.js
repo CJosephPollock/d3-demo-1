@@ -36,5 +36,6 @@ d3.select('#chart')
 
 //Create a div in your html and then append paragraphs
 //To show the names in the dataset
+//Use .text() to print on the html and function(d) to get data
 
 
